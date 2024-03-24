@@ -112,15 +112,29 @@ span.g{
    }
    
 }
-@media(max-width:380px){
+@media(max-width:376px){
     h5.cap{
      font-size: 16px;
     }
+   span.h2{
+    font-size: 20px;
+}
 p.si{
     font-size: 12px;
 }
 p.se{
     font-size: 11px;
+}
+span.h1{
+    font-size:20px ;
+}
+ }
+ @media(max-width:348px){
+    h5.cap{
+     font-size: 16px;
+    }
+p.si{
+    font-size: 12px;
 }
 span.h1{
     font-size:21px ;
